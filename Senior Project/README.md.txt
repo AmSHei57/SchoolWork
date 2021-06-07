@@ -1,1 +1,0 @@
-For my senior project my group had worked on and helped develop new features to an application about women who are mothers and need accurate information to help take care of their newborns/ babies.
