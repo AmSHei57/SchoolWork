@@ -12,3 +12,5 @@ COP4338: In this class I learned C and was tasked to use our knowledge to code p
 COP4610: In this class I learned about operating systems and with this newfound knoweledge I were to modify a tampered with operating system so that it would function properly.
 
 JAVA COP2210: In this class I learned Java and all of its major use cases. I coded various programs that had specific standards given by the professor. 
+
+Senior Project: In this class we were tasked to work on and develop new features to an application that provided mothers with accurate information about newborn babies and how to take care of not only their children but themselves. In addition to this we updated previous features that were more or less outdated as well as removed any unnecesary features deemed by our project owner. Using agile project development we were able to do all we did without any major complications.
