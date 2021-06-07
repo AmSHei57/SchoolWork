@@ -26,7 +26,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "edu.fiu.moms-infants-healthy",
       "config": {
-        "googleMapsApiKey": "AIzaSyBOZ03ddF4C7EHTz5hQPV3IkE-q2BN_cEw"
+        "googleMapsApiKey": ""
       }
     },
     "android": {
