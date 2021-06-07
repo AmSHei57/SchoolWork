@@ -1,0 +1,16 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+src/firebase_account.json
+src/firebase_account_amin.json
+
+# macOS
+.DS_Store
